@@ -16,3 +16,10 @@ Forge already has *Settings → Saving images → "Create a text file next to ev
 Untick to stop — takes effect on the next generation. Contact-sheet grids are skipped; each image in a batch gets **its own** prompt (correct for wildcards / prompt S&R).
 
 *By [stableyogi.com](https://stableyogi.com).*
+
+---
+
+### More free tools by Stable Yogi
+
+Small, free, open tools for local AI art — Forge / Forge Neo, AUTOMATIC1111, and ComfyUI.
+Browse them all at **[github.com/Stable-yogi](https://github.com/Stable-yogi)** · more at **[stableyogi.com](https://stableyogi.com)**.
